@@ -1,6 +1,6 @@
 # Hi there! I'm Chanju 👋
 
-Welcome to my GitHub profile! I'm a passionate Data Analyst with 2 years of experience in financial analysis and a strong foundation in Machine Learning. I love transforming complex data into actionable insights and making data-driven decisions.
+I'm a passionate Data Analyst with 2 years of experience in financial analysis and a strong foundation in Machine Learning. I love transforming complex data into actionable insights and making data-driven decisions.
 This is where you can find my Data Science related projects.
 
 ## 💻 Skills
