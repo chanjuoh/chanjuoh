@@ -10,7 +10,7 @@ This is where you can find my [Data Science projects](https://github.com/chanjuo
 - **Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn, TensorFlow, PySpark
 
 ### 📈 Analytics & Machine Learning
-- **Techniques:** Exploratory Data Analysis, Predictive Modeling, Machine Learning, Text Mining, Time Series Forecasting, Hypothesis Testing, NLP, Naïve Bayes, Neural Networks, Clustering, PCA, Decision Analysis, Market Basket Analysis, Tree Models, Model Comparison, Dimension Reduction, Data Visualization, Deep Learning
+- **Techniques:** Exploratory Data Analysis, Predictive Modeling, Machine Learning, Text Mining, Time Series Forecasting, Hypothesis Testing, NLP, Naïve Bayes, Neural Networks, Clustering, PCA, Decision Analysis, Market Basket Analysis, Tree-Based Models, Model Comparison, Dimension Reduction, Data Visualization, Deep Learning
 
 ### 📊 Tools & Technologies
 - **Data Visualization:** Tableau, PowerBI
